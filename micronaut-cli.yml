@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: za.co.ezagasystem.card
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-r2dbc, email-javamail, email-sendgrid, email-template, flyway, http-client-test, jackson-databind, jackson-xml, java, java-application, jdbc-hikari, junit, management, mariadb, maven, maven-enforcer-plugin, micrometer, micrometer-prometheus, micronaut-aot, mongo-reactive, netty-server, properties, r2dbc, reactor, reactor-http-client, readme, security, security-annotations, security-jwt, shade, slf4j-simple, test-resources, views-thymeleaf]
